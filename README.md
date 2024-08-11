@@ -1,4 +1,5 @@
 # VR Boxing Game - A POC 🥊💪
+![boxing VR](https://github.com/user-attachments/assets/29040df3-77e7-4538-922d-e994e4038e7e)
 
 ## Overview
 Welcome to the VR Boxing Game - This project is designed to combine fun and fitness, offering an engaging workout experience in virtual reality. Whether you're looking to break a sweat or enjoy a virtual sparring session, this game provides a thrilling way to stay active.
