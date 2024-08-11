@@ -4,7 +4,11 @@
 Welcome to the VR Boxing Game - This project is designed to combine fun and fitness, offering an engaging workout experience in virtual reality. Whether you're looking to break a sweat or enjoy a virtual sparring session, this game provides a thrilling way to stay active.
 
 ### Game Demo
-[![VR Boxing Game - Proof of Concept](https://img.youtube.com/vi/OPWS364hxF8/0.jpg)](https://www.youtube.com/watch?v=OPWS364hxF8)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=OPWS364hxF8">
+    <img src="https://img.youtube.com/vi/OPWS364hxF8/0.jpg" alt="VR Boxing Game - Proof of Concept">
+  </a>
+</p>
 
 *Click the image above to watch the demo video on YouTube.*
 
