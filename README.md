@@ -1,7 +1,7 @@
 # VR Boxing Game - A POC 🥊💪
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/29040df3-77e7-4538-922d-e994e4038e7e" alt="boxing VR" width="400"/>
+  <img src="https://github.com/user-attachments/assets/29040df3-77e7-4538-922d-e994e4038e7e" alt="boxing VR" width="480"/>
 </p>
 
 ## Overview
